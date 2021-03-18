@@ -1,3 +1,4 @@
+// Mehmet Hüseyin Delipalta - coDeveloperman
 #include <dht11.h> //DHT11 Sıcaklık Sensörü Kütüphanesi
 dht11 DHT; // DHT11 Kütüphane Fonksiyonu
 #define DHT11_PIN 6 // DHT11 Sinyal pini ( Dijital 6 )
