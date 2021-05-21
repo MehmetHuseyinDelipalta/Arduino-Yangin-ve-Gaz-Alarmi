@@ -1,7 +1,7 @@
 /* DHT library
 
 MIT license
-written by Mehmet Hüseyin Delipalta - coDeveloperMan
+written by Adafruit Industries
 */
 
 #include "DHT.h"
